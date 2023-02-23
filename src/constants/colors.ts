@@ -42,4 +42,4 @@ export const COLORS = {
   ACCENT4: '#FF60E6',
   ACCENT5: '#D8880F',
   ACCENT6: '#0C97AA',
-};
+}

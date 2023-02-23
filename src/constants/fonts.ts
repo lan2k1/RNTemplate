@@ -16,4 +16,4 @@ export const FONTS = {
     body2: 20,
     body3: 25,
   },
-};
+}
